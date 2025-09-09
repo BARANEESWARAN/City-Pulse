@@ -1,4 +1,4 @@
-# City Pulse - Event Discovery App
+<img width="1918" height="2164" alt="image" src="https://github.com/user-attachments/assets/18f8a62a-66a2-4539-9287-7c6da9305f55" /># City Pulse - Event Discovery App
 
 City Pulse is a modern event discovery application that helps users find, save, and manage events in their city with ease. The app features secure authentication, event browsing by name or city, favorite event management, and interactive maps.
 
@@ -107,28 +107,45 @@ Since the `.env` file is already configured with Firebase and API keys, you just
 - Search events by **event name or city**  
 - Clicking search with no input shows **all default events**  
 - View event cards with quick access to details  
-- Switch between **English (EN)** and **Arabic (AR)** for localized experience  
+- Switch between **English (EN)** and **Arabic (AR)** for localized experience
+- <img width="1918" height="2279" alt="image" src="https://github.com/user-attachments/assets/18a2b6ac-6fad-4e1c-a4d1-648a509d9219" />
+
 
 ### 📅 Event Details Page
+<img width="1918" height="1127" alt="image" src="https://github.com/user-attachments/assets/3159331e-5ea9-4346-9fec-69a96a39b3e8" />
+
 - View complete info: date, time, venue, pricing  
 - Interactive Google Map location  
 - Add/remove favorites  
 
 ### 🗺️ Map View
+<img width="1920" height="942" alt="image" src="https://github.com/user-attachments/assets/b17691a4-4677-4d96-bcca-cbcf2d68ab4b" />
+
 - Google Maps integration with event location pins  
 - Zoom and directions enabled  
 
 ### 👤 Profile Page
+<img width="1918" height="786" alt="image" src="https://github.com/user-attachments/assets/76ae47b2-5d53-4bf9-b120-56bc63ded069" />
+<img width="1918" height="1091" alt="image" src="https://github.com/user-attachments/assets/1a20d7cc-20d2-4d39-9a15-90464bd620d0" />
+
 - Edit name and photo URL  
 - Manage favorites  
 - Enable/disable biometric login  
 - Secure logout  
 
 ### ❤️ Favorites Management
+<img width="1918" height="822" alt="image" src="https://github.com/user-attachments/assets/66a44fc5-47de-439a-9f53-719243eeb073" />
+<img width="1918" height="1635" alt="image" src="https://github.com/user-attachments/assets/40c73126-82ed-451e-a634-8c86963c7b14" />
+
 - View all saved events  
 - Remove favorites easily  
 - Favorites synced across sessions  
 
 ---
 
-✨ Thank you for using **City Pulse**! Enjoy discovering your city’s events with ease.
+> **Note:**  
+> 🔗 [Live Demo](https://city-pulse-m866.onrender.com)  
+> This is a **static site**.  
+> - If you refresh on an inner page, the page will not be visible.  
+> - To reload correctly, go back to the **default URL** and refresh from there.  
+
