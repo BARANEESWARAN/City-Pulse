@@ -101,10 +101,13 @@ Since the `.env` file is already configured with Firebase and API keys, you just
 - Email/password login or simulated biometric login  
 
 ### 🏠 Home Page - Event Discovery
+<img width="1917" height="2893" alt="image" src="https://github.com/user-attachments/assets/82e498bd-1421-4b50-8430-16bb9e2013c4" />
+
 - Browse featured events  
 - Search events by **event name or city**  
 - Clicking search with no input shows **all default events**  
 - View event cards with quick access to details  
+- Switch between **English (EN)** and **Arabic (AR)** for localized experience  
 
 ### 📅 Event Details Page
 - View complete info: date, time, venue, pricing  
