@@ -159,8 +159,10 @@ Since the `.env` file is already configured with Firebase and API keys, you just
 - Zoom and directions enabled  
 
 ### 👤 Profile Page
-<img width="1918" height="786" alt="image" src="https://github.com/user-attachments/assets/76ae47b2-5d53-4bf9-b120-56bc63ded069" />
-<img width="1918" height="1091" alt="image" src="https://github.com/user-attachments/assets/1a20d7cc-20d2-4d39-9a15-90464bd620d0" />
+<img width="1918" height="1197" alt="image" src="https://github.com/user-attachments/assets/2bf4c0bb-8a66-4713-bb7a-e4a1e8d186ff" />
+
+<img width="1918" height="1641" alt="image" src="https://github.com/user-attachments/assets/55cf5130-9d8c-40b6-9721-3509efb152ca" />
+
 
 - Edit name and photo URL  
 - Manage favorites  
@@ -169,7 +171,8 @@ Since the `.env` file is already configured with Firebase and API keys, you just
 
 ### ❤️ Favorites Management
 <img width="1918" height="822" alt="image" src="https://github.com/user-attachments/assets/66a44fc5-47de-439a-9f53-719243eeb073" />
-<img width="1918" height="1635" alt="image" src="https://github.com/user-attachments/assets/40c73126-82ed-451e-a634-8c86963c7b14" />
+<img width="1918" height="1996" alt="image" src="https://github.com/user-attachments/assets/8ff042ff-1e13-4184-be96-14a487e33c2f" />
+
 
 - View all saved events  
 - Remove favorites easily  
