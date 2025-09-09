@@ -7,19 +7,22 @@ City Pulse is a modern event discovery application that helps users find, save, 
 ## 🚀 Live Demo
 
 Check out the live application: [https://city-pulse-m866.onrender.com](https://city-pulse-m866.onrender.com)
+<img width="1918" height="1038" alt="image" src="https://github.com/user-attachments/assets/3e23e6da-8b5d-4946-b706-a0ed4c1e9de2" />
 
 ---
 
 # 🔐 Advanced Authentication Features
 
 ## Biometric Authentication System
+<img width="1920" height="874" alt="image" src="https://github.com/user-attachments/assets/cf0e1601-2ba9-4f60-a7aa-21a292f28a80" />
+
 - **Fingerprint/Face ID Login**: Seamless biometric authentication using WebAuthn standards  
 - **Multiple Device Support**: Register biometric credentials on multiple devices  
 - **Secure Enrollment**: One-time biometric registration process  
 - **Fallback Options**: Traditional email/password login always available  
 
 ## Biometric Registration Flow
-<img width="1920" height="874" alt="image" src="https://github.com/user-attachments/assets/cf0e1601-2ba9-4f60-a7aa-21a292f28a80" />
+
 
 1. User signs up with email/password first  
 2. Navigates to **Profile → Biometric Settings**  
