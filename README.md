@@ -1,4 +1,4 @@
-<img width="1918" height="2164" alt="image" src="https://github.com/user-attachments/assets/18f8a62a-66a2-4539-9287-7c6da9305f55" /># City Pulse - Event Discovery App
+# City Pulse - Event Discovery App
 
 City Pulse is a modern event discovery application that helps users find, save, and manage events in their city with ease. The app features secure authentication, event browsing by name or city, favorite event management, and interactive maps.
 
