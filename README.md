@@ -16,6 +16,9 @@ Check out the live application: [https://city-pulse-m866.onrender.com](https://c
 ## Biometric Authentication System
 <img width="1920" height="874" alt="image" src="https://github.com/user-attachments/assets/cf0e1601-2ba9-4f60-a7aa-21a292f28a80" />
 <img width="1918" height="1038" alt="image" src="https://github.com/user-attachments/assets/3e23e6da-8b5d-4946-b706-a0ed4c1e9de2" />
+<img width="1902" height="866" alt="image" src="https://github.com/user-attachments/assets/f10fbdef-f02f-47e5-bb89-a553bc671276" />
+<img width="1892" height="866" alt="image" src="https://github.com/user-attachments/assets/755ffd7f-4ac3-4957-bde1-5dcdf7916989" />
+
 
 - **Fingerprint/Face ID Login**: Seamless biometric authentication using WebAuthn standards  
 - **Multiple Device Support**: Register biometric credentials on multiple devices  
