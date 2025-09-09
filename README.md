@@ -18,6 +18,8 @@ Check out the live application: [https://city-pulse-m866.onrender.com](https://c
 <img width="1918" height="1038" alt="image" src="https://github.com/user-attachments/assets/3e23e6da-8b5d-4946-b706-a0ed4c1e9de2" />
 <img width="1902" height="866" alt="image" src="https://github.com/user-attachments/assets/f10fbdef-f02f-47e5-bb89-a553bc671276" />
 <img width="1892" height="866" alt="image" src="https://github.com/user-attachments/assets/755ffd7f-4ac3-4957-bde1-5dcdf7916989" />
+<img width="1889" height="884" alt="image" src="https://github.com/user-attachments/assets/84b081de-addc-4082-b982-a1219d23fe5f" />
+
 
 
 - **Fingerprint/Face ID Login**: Seamless biometric authentication using WebAuthn standards  
