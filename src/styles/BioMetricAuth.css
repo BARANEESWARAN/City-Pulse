@@ -1,0 +1,149 @@
+
+.biometric-auth {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.biometric-setup {
+  padding: 20px;
+  margin: 20px 0;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  background: #f9f9f9;
+  text-align: center;
+}
+
+.biometric-setup h4 {
+  margin: 0 0 10px 0;
+  color: #333;
+  font-size: 18px;
+}
+
+.biometric-setup p {
+  margin: 0 0 20px 0;
+  color: #666;
+  font-size: 14px;
+}
+
+.biometric-loading,
+.biometric-not-supported,
+.biometric-not-available,
+.biometric-success {
+  padding: 15px;
+  margin: 15px 0;
+  border-radius: 8px;
+  text-align: center;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.biometric-loading {
+  color: #6c5ce7;
+  background-color: #f0f0f0;
+}
+
+.biometric-not-supported {
+  color: #ff9800;
+  background-color: #fff3e0;
+  border: 1px solid #ff9800;
+}
+
+.biometric-not-available {
+  color: #666;
+  background-color: #f9f9f9;
+  border: 1px solid #e0e0e0;
+}
+
+.biometric-success {
+  color: #28a745;
+  background-color: #f8fff9;
+  border: 1px solid #28a745;
+}
+
+.btn-biometric {
+  background: linear-gradient(45deg, #6c5ce7, #a29bfe);
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 6px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  margin: 10px 0;
+}
+
+.btn-biometric:hover:not(:disabled) {
+  background: linear-gradient(45deg, #5d4fd6, #9188f5);
+  transform: translateY(-2px);
+}
+
+.btn-biometric:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.or-divider {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+  color: #666;
+}
+
+.or-divider::before,
+.or-divider::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: #e0e0e0;
+}
+
+.or-divider span {
+  padding: 0 15px;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.error-message {
+  color: #dc3545;
+  background: #f8d7da;
+  border: 1px solid #f5c6cb;
+  padding: 10px;
+  border-radius: 4px;
+  margin: 10px 0;
+  font-size: 14px;
+}
+
+.btn-sm {
+  padding: 6px 12px;
+  font-size: 12px;
+}
+
+.btn-outline {
+  background: transparent;
+  border: 1px solid #dc3545;
+  color: #dc3545;
+  transition: all 0.3s ease;
+}
+
+.btn-outline:hover {
+  background: #dc3545;
+  color: white;
+}
+
+.fa-spin {
+  animation: fa-spin 2s infinite linear;
+}
+
+@keyframes fa-spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
