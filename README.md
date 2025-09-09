@@ -94,6 +94,9 @@ Since the `.env` file is already configured with Firebase and API keys, you just
 ## 📖 Page Overview
 
 ### 🔐 Sign Up / Login Page
+<img width="1915" height="880" alt="image" src="https://github.com/user-attachments/assets/b81cdaee-a318-4580-a16c-ec17df5be785" />                            <img width="1915" height="881" alt="image" src="https://github.com/user-attachments/assets/7eb57dd5-ca0b-47a4-a467-1621453384bc" />
+
+
 - Secure Firebase authentication  
 - Email/password login or simulated biometric login  
 
