@@ -10,6 +10,29 @@ Check out the live application: [https://city-pulse-m866.onrender.com](https://c
 
 ---
 
+# 🔐 Advanced Authentication Features
+
+## Biometric Authentication System
+- **Fingerprint/Face ID Login**: Seamless biometric authentication using WebAuthn standards  
+- **Multiple Device Support**: Register biometric credentials on multiple devices  
+- **Secure Enrollment**: One-time biometric registration process  
+- **Fallback Options**: Traditional email/password login always available  
+
+## Biometric Registration Flow
+1. User signs up with email/password first  
+2. Navigates to **Profile → Biometric Settings**  
+3. One-click registration captures biometric data  
+4. Credentials securely stored in Firebase  
+5. Future logins can use fingerprint/face recognition  
+
+## Biometric Management
+- **Enable/Disable**: Toggle biometric login in profile settings  
+- **Multiple Devices**: Register biometrics on different devices  
+- **Secure Storage**: Biometric data never leaves your device  
+- **Revocation**: Easily remove biometric credentials if needed  
+
+---
+
 ## 📱 Application Features
 
 1. **Authentication System**  
