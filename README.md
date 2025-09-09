@@ -19,6 +19,8 @@ Check out the live application: [https://city-pulse-m866.onrender.com](https://c
 - **Fallback Options**: Traditional email/password login always available  
 
 ## Biometric Registration Flow
+<img width="1920" height="874" alt="image" src="https://github.com/user-attachments/assets/cf0e1601-2ba9-4f60-a7aa-21a292f28a80" />
+
 1. User signs up with email/password first  
 2. Navigates to **Profile → Biometric Settings**  
 3. One-click registration captures biometric data  
