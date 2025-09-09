@@ -27,7 +27,7 @@ Check out the live application: [https://city-pulse-m866.onrender.com](https://c
 3. **Favorites Management**  
    - Save favorite events easily  
    - View all favorites in your profile  
-   - Persistent storage synced via Firebase  
+    - Persistent storage via Firebase, synced with **localStorage** for quick access  
 
 4. **User Profiles**  
    - Edit profile info (name, photo URL)  
